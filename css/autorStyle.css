@@ -1,0 +1,18 @@
+body {
+    background: #ffe8f9;
+}
+
+h1 {
+    color: rgb(59, 158, 158);
+    font-size: 250%;
+}
+
+img {
+    width: 35%;
+    height: 35%;
+    margin-left: 32%;
+}
+
+.centro {
+    text-align: center;
+}
